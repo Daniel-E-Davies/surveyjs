@@ -79,15 +79,15 @@ export class StylesManager {
     ".sv_q_dd_other input": "width: 100%;",
 
     ".sv_qstn .sv-q-col-1":
-      "width: 100%; display: inline-block; padding-right: 1em; box-sizing: border-box; word-break: break-word;",
+      "width: 100%; display: inline-block; padding-right: box-sizing: border-box; word-break: break-word;",
     ".sv_qstn .sv-q-col-2":
-      "width: 50%; display: inline-block; padding-right: 1em; box-sizing: border-box; word-break: break-word;",
+      "width: 50%; display: inline-block; padding-right: box-sizing: border-box; word-break: break-word;",
     ".sv_qstn .sv-q-col-3":
-      "width: 33.33333%; display: inline-block; padding-right: 1em; box-sizing: border-box; word-break: break-word;",
+      "width: 33.33333%; display: inline-block; padding-right: box-sizing: border-box; word-break: break-word;",
     ".sv_qstn .sv-q-col-4":
-      "width: 25%; display: inline-block; padding-right: 1em; box-sizing: border-box; word-break: break-word;",
+      "width: 25%; display: inline-block; padding-right: box-sizing: border-box; word-break: break-word;",
     ".sv_qstn .sv-q-col-5":
-      "width: 20%; display: inline-block; padding-right: 1em; box-sizing: border-box; word-break: break-word;",
+      "width: 20%; display: inline-block; padding-right: box-sizing: border-box; word-break: break-word;",
 
     ".sv_qstn .sv_q_file_input": "color: transparent;",
 

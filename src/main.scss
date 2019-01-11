@@ -1,4 +1,4 @@
-﻿@mixin svg-icon() {
+@mixin svg-icon() {
   content: "";
   background-repeat: no-repeat;
   background-position: center;
@@ -634,7 +634,6 @@ $base-line-height: 2em;
             .sv_q,
             .sv_qstn {
               display: block;
-              width: 100% !important;
               .title-left {
                 float: none;
               }
